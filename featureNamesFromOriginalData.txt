@@ -1,0 +1,32 @@
+trial number
+subject uuid
+session start time
+trial ID
+subject nickname
+sex
+subject_birth_date
+ear_mark: data not included
+subject_line
+subject_strain: data not included
+subject_source: data not included
+protocol_number: Indicicates basic or full task type, which is already included
+subject_description: data not included
+subject ts: just timestamp of when the data was loaded into the table
+trial_start_time
+trial_end_time: dont need because endtimes are fixed relative to start times
+trial_response_time: resultant of response
+trial_response_choice: resultant of response
+trial_stim_on_time: Decided by protocal
+trial_stim_contrast_left: decided by protocal
+trial_stim_contrast_right: decided by protocal
+trial_feedback_time: INCOMPLETE
+trial_feedback_type: decided by protocal, and trial result is derived from feedback type
+trial_rep_num: Data not included
+trial_go_cue_time: Data not included
+trial_go_cue_trigger_time: not known before a trial
+trial_stim_prob_left: decided by protocal
+trial_reward_volume: data not included
+trial_iti_duration: data not included
+trial_included: data not included
+task_type:
+trial_result:
